@@ -1,3 +1,2 @@
-# RedDevTeamFirstProject
-Another attempt to upload a project
-Test Slack
+# NoteAPP
+By Sunny Wu
